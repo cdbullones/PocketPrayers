@@ -3,5 +3,8 @@ djangorestframework
 psycopg2
 python-dotenv
 django-filter
-djangorestframework_simplejwt
 requests
+django-rest-auth
+django-allauth
+djangorestframework-jwt
+Pillow
